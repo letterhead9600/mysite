@@ -14,7 +14,7 @@ social:
   linkedin: ziying-jian-741847217
 
 # Theme (Jekyll theme you're using)
-theme: time machine
+theme: minima
 
 # Markdown settings
 markdown: kramdown
