@@ -1,7 +1,6 @@
 ---
 title: Home
 theme: minima
-layout: default
 ---
 
 pronounced ZEE-ying JEN
