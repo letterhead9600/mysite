@@ -1,1 +1,20 @@
+title: Ziying's Personal Website
+description: ""
+baseurl: "" # for GitHub Pages, leave empty
+url: "https://yourusername.github.io" # replace with your actual GitHub username
+
+# Author info
+author:
+  name: Ziying Jian
+  email: ziyjny@gmail.com
+
+# Social links
+social:
+  github: letterhead9600
+  linkedin: ziying-jian-741847217
+
+# Theme (Jekyll theme you're using)
 theme: time machine
+
+# Markdown settings
+markdown: kramdown

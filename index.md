@@ -1,3 +1,4 @@
 ---
-title: Ziying Jian
+title: Home
+layout: default
 ---
