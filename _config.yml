@@ -13,5 +13,8 @@ social:
   github: letterhead9600
   linkedin: ziying-jian-741847217
 
-# Theme (Jekyll theme you're using)
-theme: minima
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
+
