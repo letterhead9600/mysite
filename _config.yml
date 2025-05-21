@@ -1,7 +1,7 @@
 title: Ziying's Personal Website
-description: ""
+description: Amateaur
 baseurl: "" # for GitHub Pages, leave empty
-url: "https://yourusername.github.io" # replace with your actual GitHub username
+url: "https://letterhead9600.github.io" # replace with your actual GitHub username
 
 # Author info
 author:
@@ -15,6 +15,3 @@ social:
 
 # Theme (Jekyll theme you're using)
 theme: minima
-
-# Markdown settings
-markdown: kramdown
