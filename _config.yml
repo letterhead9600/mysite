@@ -13,8 +13,9 @@ social:
   github: letterhead9600
   linkedin: ziying-jian-741847217
 
+remote_theme: jekyll/minima
+
 plugins:
   - jekyll-remote-theme
 
-remote_theme: jekyll/minima
 
